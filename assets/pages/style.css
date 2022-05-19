@@ -1,0 +1,48 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('../images/java.png');
+    
+}
+
+#signIn{
+    padding-left: 20px;
+    padding: 10px;
+    
+    
+    
+}
+#name,#email, #submit{
+    margin-bottom: 20px;
+    border-radius: 20px;
+    padding: 20px;
+}
+#signup{
+    background-color:rgb(114, 104, 48);
+    margin:auto;
+    width: 70%;
+}
+
+
+
+/* css page two */
+#page2{
+    background-color: rgb(133, 128, 104);
+    margin: auto;
+    width:80%;
+    border:3px solid black;
+    
+}
+#answerform{
+    display: none;
+}
+#questions{
+    margin-left: 30px;
+}
+button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+    padding: 10px;
+    width: 100px;
+    border-radius: 5px;
+}
