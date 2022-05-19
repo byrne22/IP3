@@ -3,10 +3,18 @@ body{
     background-image: url('../images/java.png');
     
 }
+#SignIn{
+    background-color: rgb(219, 136, 12);
+    border: solid;
+    border-color: black;
+    border-radius: 40%;
+}
 
 #signIn{
     padding-left: 20px;
-    padding: 10px;
+    padding: 50px;
+    border: solid;
+
     
     
     
@@ -17,19 +25,19 @@ body{
     padding: 20px;
 }
 #signup{
-    background-color:rgb(114, 104, 48);
+    background-color:rgb(22, 240, 189);
     margin:auto;
-    width: 70%;
+    width: 80%;
 }
 
 
 
 /* css page two */
 #page2{
-    background-color: rgb(133, 128, 104);
+    background-color: rgb(3, 191, 248);
     margin: auto;
     width:80%;
-    border:3px solid black;
+    border:3px solid rgb(221, 12, 12);
     
 }
 #answerform{
