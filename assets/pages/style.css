@@ -34,10 +34,10 @@ body{
 
 /* css page two */
 #page2{
-    background-color: rgb(3, 191, 248);
+    background-color: rgb(91, 187, 216);
     margin: auto;
     width:80%;
-    border:3px solid rgb(221, 12, 12);
+    border:3px solid rgb(5, 2, 2);
     
 }
 #answerform{
