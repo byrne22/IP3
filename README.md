@@ -4,6 +4,8 @@ quiz-board
 By Byron Odhiambo
 
 Table of Contents
+
+
                        -[Description]
                        -[Features]
                        -[Requirements]
@@ -12,7 +14,9 @@ Table of Contents
                        -[Live Link]
                        -[Support and Contact Details]
                        -[Licence]
+                       
 Description
+
 quiz-board web app is  written in HTML,CSS and Javascript. Javascript is used to populate the form inputs where a user is presented with a question and multi choices where they are required to choose the correct answer for the provided choices and a score is shown after.
 Features
 Minimal clean design
@@ -33,7 +37,7 @@ Live Link
 *Click the following link to view the live application:
 
 Support and Contact Details
-*For any queiries, suggestion or feedback, feel free to engage my audience through email: daniel.sobit@student.moringaschool.com
+*For any queiries, suggestion or feedback, feel free to engage my audience through email: byron.odhiambo@student.moringaschool.com
 
 Licence
 MIT Licence 2022 by Byron Odhiambo.
